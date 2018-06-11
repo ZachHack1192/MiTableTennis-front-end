@@ -1,0 +1,23 @@
+.head {
+    text-align: center;
+    font-size: 150px;
+    text-decoration: underline;
+    font-family: 'Baloo Chettan', cursive;
+    background: linear-gradient(dodgerblue, white);
+    margin-top: 0;
+    color: white;
+    text-shadow:
+            1px 1px 0 dodgerblue,
+            1px 1px 0 dodgerblue,
+            1px 1px 0 dodgerblue,
+            1px 1px 0 dodgerblue;
+}
+
+.center {
+    text-align: center;
+    align-content: center;
+}
+
+.title {
+    font-family: 'Baloo Chettan', cursive;
+}
